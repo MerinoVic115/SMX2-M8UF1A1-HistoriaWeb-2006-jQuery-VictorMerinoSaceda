@@ -23,3 +23,19 @@
 ## <p align="justify">¿Por qué se hizo?</p>
 
 <p align="justify">jQuery se creó para abordar los desafíos que los desarrolladores web enfrentaban al escribir código JavaScript para múltiples navegadores. Su objetivo principal era proporcionar una forma más sencilla y eficiente de realizar tareas comunes en desarrollo web, reduciendo la cantidad de código necesario y mejorando la consistencia entre navegadores.</p>
+
+## Información Básica sobre jQuery
+
+| Característica      | Descripción                                      |
+|---------------------|--------------------------------------------------|
+| Última versión      | jQuery 3.6.0                                     |
+| Sitio web oficial   | [jquery.com](https://jquery.com/)               |
+| Repositorio en GitHub | [GitHub de jQuery](https://github.com/jquery/jquery) |
+
+### Imágenes
+
+![jQuery Logo](https://github.com/MerinoVic115/SMX2-M8UF1A1-HistoriaWeb-2006-jQuery-VictorMerinoSaceda/commit/04d09cc02bef57495b693ec9f33a39d351238e3e)
+
+### Videos
+
+[Enlace al video de introducción a jQuery](URL_DEL_VIDEO)
