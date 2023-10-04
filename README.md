@@ -32,7 +32,7 @@
 | Sitio web oficial   | [jquery.com](https://jquery.com/)               |
 | Repositorio en GitHub | [GitHub de jQuery](https://github.com/jquery/jquery) |
 
-### Imágenes
+### Imagen
 
 ![jQuery Logo](62a76aadbd73a4af5c5d4fc5.png)
 
