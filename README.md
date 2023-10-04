@@ -1,1 +1,7 @@
-# SMX2M8UF1A1HistoriaWeb2006jQueryVictorMerinoSaceda
+# jQuery
+
+## ¿Que es jQuery?
+
+## ¿Como se desarroyo?
+
+## ¿con que finalidad?
