@@ -34,8 +34,8 @@
 
 ### Imágenes
 
-![jQuery Logo](https://github.com/MerinoVic115/SMX2-M8UF1A1-HistoriaWeb-2006-jQuery-VictorMerinoSaceda/commit/04d09cc02bef57495b693ec9f33a39d351238e3e)
+![jQuery Logo](62a76aadbd73a4af5c5d4fc5.png)
 
 ### Videos
 
-[Enlace al video de introducción a jQuery](URL_DEL_VIDEO)
+[Enlace al video de introducción a jQuery](https://www.youtube.com/watch?v=M2ILKmWgW8I&ab_channel=TutorialesatuAlcance)
