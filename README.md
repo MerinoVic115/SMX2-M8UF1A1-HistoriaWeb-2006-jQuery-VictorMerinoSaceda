@@ -4,21 +4,31 @@
 
 <p align="justify">jQuery es una biblioteca de JavaScript de código abierto que simplifica la interacción con HTML, CSS y JavaScript en aplicaciones web.</p>
 
+![](Imagenes/descarga.png)
+
 ## <p align="justify">¿Quién lo hizo?</p>
 
 <p align="justify">jQuery fue creado por <strong>John Resig</strong> en 2006. Su idea inicial era simplificar la estructura de codigo de JavaScript con multiples navegadores.</p>
+
+![](Imagenes/1009xrds_resig_john_article.jpg)
 
 ## <p align="justify">¿Cómo se hizo?</p>
 
 <p align="justify">jQuery se desarrolló utilizando JavaScript y se basa en facilitar el codigo de HTML y mejorar la comapatibilidad de navegadores.</p>
 
+![](Imagenes/java.png)
+
 ## <p align="justify">¿Dónde se hizo?</p>
 
 <p align="justify">El desarrollo principal de jQuery fue una comunidad de personas que lo querian hacer de codigo abierto, gracias a la comunidad se fue actualizando y mejorando este sofware.</p>
 
+![](Imagenes/comunidad-online-1000x500-1.jpg)
+
 ## <p align="justify">¿Cuándo se hizo?</p>
 
 <p align="justify">jQuery se lanzó por primera vez en agosto 2006, y desde entonces ha han habido varias actualizaciones.</p>
+
+![](Imagenes/agosto-design-stripes-name.gif)
 
 ## Información Básica sobre jQuery
 
