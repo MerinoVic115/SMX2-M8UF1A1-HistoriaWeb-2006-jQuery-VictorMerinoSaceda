@@ -10,7 +10,7 @@
 
 ## <p align="justify">¿Cómo se hizo?</p>
 
-<p align="justify">jQuery se desarrolló utilizando JavaScript y se basa en facilitar el codigo de HTML y mejorar la comapatibilidad de navegadores.l</p>
+<p align="justify">jQuery se desarrolló utilizando JavaScript y se basa en facilitar el codigo de HTML y mejorar la comapatibilidad de navegadores.</p>
 
 ## <p align="justify">¿Dónde se hizo?</p>
 
